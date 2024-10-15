@@ -108,7 +108,7 @@ The build files will be generated in the `dist/` folder.
 
 - `npm run dev`: Starts the development server.
 - `npm run build`: Builds the app for production.
-- `npm run preview`: Preview the production build locally.
+- `npm run preview`: Preview the production build locally..
 
 ## Learn More
 
