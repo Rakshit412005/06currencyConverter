@@ -1,7 +1,7 @@
 
 # Currency Converter Website
 
-This is a simple Currency Converter website that uses APIs to convert one currency to another in real-time. Follow the steps below to clone the repository, install the dependencies, and start the project.
+This is a simple Currency Converter website that uses APIs to convert one currency to another in real-time. Follow the steps below to clone the repository, install the dependencies, and start the project...
 
 ## Prerequisites
 
